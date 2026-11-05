@@ -1,2 +1,1 @@
-# qrislovinly
-penyimpanan qrislovinly
+
